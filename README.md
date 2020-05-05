@@ -13,7 +13,7 @@ to use this Slow Loris script:
 
 # Example
 
-For example to attack www.examplewebsite.com on port 80 maintaining 200 sockets and sending keep alive 
+For example to attack examplewebsite.com on port 80 maintaining 200 sockets and sending keep alive 
 headers every 20 seconds:
 
         $ cd SlowLoris
